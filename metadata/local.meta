@@ -1,0 +1,12 @@
+[app/ui]
+version = 9.2.2
+modtime = 1722090415.000488000
+
+[app/launcher]
+version = 9.2.2
+modtime = 1722090415.001754000
+
+[inputs/tcp%3A%2F%2F5514]
+owner = admin
+version = 9.2.2
+modtime = 1722090643.136225000
